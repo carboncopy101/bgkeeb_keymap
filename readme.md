@@ -7,7 +7,9 @@ My keymap version for bgkeeb. Different thumbkeys vs sadekbaroudi's implementati
 
 # bgkeeb_keymap
 13 Feb 2022 - Edited Colemak layout
+
 17 Feb 2022 - Created keymap layout 
+
 18 Feb 2022 - Edited QWERTY keymap
 
 image for easier reference

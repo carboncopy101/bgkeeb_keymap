@@ -81,7 +81,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  *        |      |      |                                       |      |      |
  *        `------+------'                                       `------+------'
  *                  ,--------------------.    ,--------------------.
- *                  | LOWER|      |      |    |      |      | RAISE|
+ *                  |      | LOWER |     |    |      | RAISE|      |
  *                  `--------------------'    `--------------------.
  */
 [_RAISE] = LAYOUT_split_3x5_4(
@@ -103,7 +103,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  *        |      |      |                                       |      |      |
  *        `------+------'                                       `------+------'
  *                  ,--------------------.    ,--------------------.
- *                  | LOWER|      |      |    |  Del |      | RAISE|
+ *                  |      | LOWER |     |    |      | RAISE|      |
  *                  `--------------------'    `--------------------.
  */
 [_LOWER] = LAYOUT_split_3x5_4(
@@ -125,7 +125,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  *        |      |      |                                       |      |      |
  *        `------+------'                                       `------+------'
  *                  ,--------------------.    ,--------------------.
- *                  | LOWER|      |      |    |      |      | RAISE|
+ *                  |      | LOWER |     |    |      | RAISE|      |
  *                  `--------------------'    `--------------------.
  */
 [_ADJUST] =  LAYOUT_split_3x5_4(
